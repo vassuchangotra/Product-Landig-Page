@@ -1,5 +1,5 @@
 # Product-Landing-Page
-Objective: Fulfill the "user stories" and get all of the tests to pass.You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk.
+Objective: Build a Product Landing Page using HTML, JavaScript, and CSS to complete this project. Fulfill the "user stories" and get all of the tests to pass. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk.
 
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
